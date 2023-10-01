@@ -13,7 +13,7 @@ class UpdateInvoiceRequest extends FormRequest
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**

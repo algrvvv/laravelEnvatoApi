@@ -30,7 +30,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 // });
 
 // более современный метод
-Route::prefix('v1')->group(function () {
+Route::prefix('v1')->middleware('auth:sanctum')->group(function () {
     Route::apiResources([
         '/customers' => CustomerController::class,
         '/invoices' => InvoiceController::class

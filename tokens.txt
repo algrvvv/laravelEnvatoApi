@@ -1,0 +1,31 @@
+{
+    "admin": "1|wy0YevVNyMfSM0ozH8nBOGzAJ10PprwrVYgBZe0Ta2ba7b74",
+    "update": "2|VyWY3fwUCmhnlarVY0Zx6nDjinYkoFbTC2QwETTS63e61825",
+    "basic": "3|WDUlz0ilr37tJalv3kboRMk0E2CIkBCwqLVpaTUfff0b1619"
+}
+
+[{
+    "customerId" : "1",
+    "amount" : "500",
+    "status": "B",
+    "billedDate" : "2021-04-03 12:32:42",
+    "paidDate" : null
+},
+{
+    "customerId" : "1",
+    "amount" : "500",
+    "status": "B",
+    "billedDate" : "2021-04-03 12:32:42",
+    "paidDate" : null
+}]
+
+{
+        "id": 231,
+        "name": "POSHEL NAHUI",
+        "type": "I",
+        "email": "poka@gmail.com",
+        "address": "privet moskva!!!",
+        "city": "WOCSOM",
+        "state": "net sam idi",
+        "postalCode": "938219"
+    }
